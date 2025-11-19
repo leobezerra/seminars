@@ -6,6 +6,13 @@ title: "Sociotechnical & Resposible AI Seminar Series"
 
 # Sociotechnical & Responsible AI Seminar Series
 
+---
+**Disclaimer**
+- This seminar series is partially supported by the PHAWM project.
+- Some of these seminars were also part of the Computing Science and Mathematics Division seminar series at the University of Stirling.
+- This seminar series is supported by the StirAI multidisciplinary research lab at the University of Stirling.
+---
+
 <!--
 <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
 <a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
