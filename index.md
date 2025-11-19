@@ -23,7 +23,7 @@ title: "Sociotechnical & Resposible AI Seminar Series"
    - [Spring](#spring2026): AI & Ethics
 2. [2025](#2025)
    - [Autumn](#autumn2025): AI & Gender
-   - [Spring](#spring2025): AI & Organisations
+   - [Spring](#spring2025): AI & Governance
 3. [2024](#2024)
    - [Autumn](#autumn2024): AI & Metrics 
   
@@ -67,7 +67,7 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
 
 <a name="spring2025"/>
 
-## AI & Organisations
+## AI & Governance
 
 <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-4%20April-green.svg?style=for-the-badge"/> <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTUyZDczYTgtZWQ0NS00ZmVmLWEwNmYtYWRhNmM0YjFiMmYx%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22c7de0876-12e7-4463-9452-bcea2929316b%22%7d"><img src="https://img.shields.io/badge/link-teams-yellow.svg?style=for-the-badge"/></a>
 
