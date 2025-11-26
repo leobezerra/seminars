@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#header {
+  height: 50px;
+}
+
 #header nav {
   background: url(../images/nav-bg.gif) #353535;
 }
