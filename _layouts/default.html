@@ -19,9 +19,15 @@
   </head>
   <body>
       <div id="header">
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </div>
+        <nav>
+          <ul>
+            <li class="fork">
+              <div id="title">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+              </div>
+            </li>
+          </ul>
+        </nav>
 <!-- 
         <nav>
           <ul>
