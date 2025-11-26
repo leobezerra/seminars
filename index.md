@@ -1,5 +1,5 @@
 ---
-title: "unhyped.ai"
+title: "Unhyped AI"
 ---
 
 <a name="top"/>
