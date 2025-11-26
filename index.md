@@ -66,7 +66,9 @@ title: "Sociotechnical & Resposible AI Seminar Series"
       </td>
       <td width=320>
          <h3>Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online</h3>
+         <br/>
          <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote>
+         <br/>
          <i><a href="https://www.linkedin.com/in/carolline-querino/">Carolline Querino</a> @  Itaipu ParqueTec & Cajú Consultoria Nordestina</i>
       </td>
    </tr>
