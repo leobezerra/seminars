@@ -43,11 +43,20 @@ title: "Sociotechnical & Resposible AI Seminar Series"
 
 <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-19%20February-green.svg?style=for-the-badge"/>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQH1KjlfFf4Qtg/profile-displayphoto-shrink_800_800/B4EZRLjTVTGgAc-/0/1736434333562?e=1764806400&v=beta&t=arFSqnhb8b9knKp4EPR46cSFj0ZzBjyGRggfSc5JvZE">
-
-### Upcoming
-
-**[Ron Chrisley](https://www.linkedin.com/in/ronchrisley/overlay/photo/) @ _University of Sussex_**
+<table>
+   <tr>
+      <td width=350 class="picture">
+         <img src="https://media.licdn.com/dms/image/v2/D4E03AQH1KjlfFf4Qtg/profile-displayphoto-shrink_800_800/B4EZRLjTVTGgAc-/0/1736434333562?e=1764806400&v=beta&t=arFSqnhb8b9knKp4EPR46cSFj0ZzBjyGRggfSc5JvZE">
+      </td>
+      <td width=320>
+         <h3>Upcoming</h3>
+         <br/>
+         <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+         <br/>
+         <i><a href="https://www.linkedin.com/in/ronchrisley/">Ron Chrisley</a> @ University of Sussex</i>
+      </td>
+   </tr>
+</table>
 
 [Back to the top](#top)
 
