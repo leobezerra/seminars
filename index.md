@@ -1,5 +1,5 @@
 ---
-title: "Sociotechnical & Resposible AI Seminar Series"
+title: "Unhyped AI: A Sociotechnical & Resposible AI Seminar Series"
 ---
 
 <a name="top"/>
