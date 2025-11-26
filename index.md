@@ -61,7 +61,7 @@ title: "Sociotechnical & Resposible AI Seminar Series"
 
 <table>
    <tr>
-      <td width=350>
+      <td width=350 id="picture">
          <img src="https://media.licdn.com/dms/image/v2/D4D03AQGlJNRUjYqGqg/profile-displayphoto-crop_800_800/B4DZiecpPJGkAM-/0/1755004970160?e=1764806400&v=beta&t=Yqt2KDv07X2-R4US-gSHdWI7wYyjm-5cE2B57wVab8E">
       </td>
       <td width=320>
@@ -93,7 +93,7 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
 
 <table>
    <tr>
-      <td width=350>
+      <td width=350 id="picture">
          <img src="https://media.licdn.com/dms/image/v2/C4E03AQFRSf_44FpNkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560880655205?e=1764806400&v=beta&t=BuhdElf64hPhSC_47fT8nY071hYftSEeWGUlh_brSoA">      
       </td>
       <td width=320>
@@ -122,7 +122,7 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
 
 <table>
    <tr>
-      <td width=350 align="center">
+      <td width=350 id="picture">
          <img src="https://media.licdn.com/dms/image/v2/C5603AQG_KZCSdppTLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516494869327?e=1764806400&v=beta&t=pZWv79T0frfPxaew29AfkXDFAJKFjufwUei19KTYXv4">
       </td>
       <td width=320>
