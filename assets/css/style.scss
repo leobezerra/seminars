@@ -29,16 +29,13 @@ section #title {
   margin: 0 0 0 0;
 }
 
-section p {
-  float: none;
-}
-
 .picture {
   text-align: center;
 }
 
 .float-parent {
   overflow: hidden;
+  margin: 0 0 20px 0;
 }
 
 .float-child {
