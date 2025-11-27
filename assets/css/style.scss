@@ -39,7 +39,7 @@ section #title p {
 }
 
 @media screen and (max-width: 400px) {
-   #one { 
+  .float-child {
     float: none;
     width: auto;
   }
