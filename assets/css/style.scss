@@ -37,9 +37,14 @@ section p {
   text-align: center;
 }
 
+.float-parent {
+  overflow: hidden;
+}
+
 .float-child {
   float: left;
   width: 50%;
+  text-align: center;
 }
 
 @media screen and (max-width: 400px) {
