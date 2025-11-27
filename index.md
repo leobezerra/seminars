@@ -115,7 +115,7 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
    <div class="float-child picture" id="one">
       <img src="https://media.licdn.com/dms/image/v2/C4E03AQFRSf_44FpNkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560880655205?e=1764806400&v=beta&t=BuhdElf64hPhSC_47fT8nY071hYftSEeWGUlh_brSoA">      
    </div>
-   <div class="float-child">
+   <div class="float-child card">
       <h3>The challenges of digital ethics & responsible AI</h3>
       <br/>
       <blockquote>"organisations across the world are facing growing challenges in implementing responsible AI at scale"</blockquote>
@@ -158,7 +158,7 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
    <div class="float-child picture" id="one">
       <img src="https://media.licdn.com/dms/image/v2/C5603AQG_KZCSdppTLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516494869327?e=1764806400&v=beta&t=pZWv79T0frfPxaew29AfkXDFAJKFjufwUei19KTYXv4">
    </div>
-   <div class="float-child">
+   <div class="float-child card">
       <h3>Mathematical models for dominance move: comparison and complexity analysis</h3>
       <br/>
       <blockquote>"dominance move is very intuitive but hard to calculate due to its combinatorial nature"</blockquote>
