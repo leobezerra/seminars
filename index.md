@@ -96,10 +96,23 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
 <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTUyZDczYTgtZWQ0NS00ZmVmLWEwNmYtYWRhNmM0YjFiMmYx%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22c7de0876-12e7-4463-9452-bcea2929316b%22%7d"><img src="https://img.shields.io/badge/link-teams-yellow.svg?style=for-the-badge"/></a> 
 -->
 
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="https://media.licdn.com/dms/image/v2/C4E03AQFRSf_44FpNkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560880655205?e=1764806400&v=beta&t=BuhdElf64hPhSC_47fT8nY071hYftSEeWGUlh_brSoA">      
+   </div>
+   <div class="float-child">
+      <h3>The challenges of digital ethics & responsible AI</h3>
+      <br/>
+      <blockquote>"organisations across the world are facing growing challenges in implementing responsible AI at scale"</blockquote>
+      <br/>
+      <i><a href="https://www.linkedin.com/in/wiktoria-kulik/">Wiktoria Kulik</a> @ Accenture UK </i>
+   </div>   
+</div>
+
+<!-- 
 <table>
    <tr>
       <td width=350 class="picture">
-         <img src="https://media.licdn.com/dms/image/v2/C4E03AQFRSf_44FpNkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560880655205?e=1764806400&v=beta&t=BuhdElf64hPhSC_47fT8nY071hYftSEeWGUlh_brSoA">      
       </td>
       <td width=320>
          <h3>The challenges of digital ethics & responsible AI</h3>
@@ -109,7 +122,8 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
          <i><a href="https://www.linkedin.com/in/wiktoria-kulik/">Wiktoria Kulik</a> @ Accenture UK </i>
       </td>
    </tr>
-</table>
+</table> 
+-->
 
 As adoption of Generative AI solutions increases and more regulatory scrutiny is given to AI more broadly, organisations across the world are facing growing challenges in implementing responsible AI at scale. This talk will explore the key challenges organisations encounter in adopting responsible AI, including establishment and operationalisation of key principles, and navigating evolving regulations. We will examine how organisations can build effective governance frameworks that balance innovation with ethical considerations, and the role of regulators in setting clear guidelines for AI deployment. Additionally, we will discuss the challenges of fostering a culture of responsibility within organisations, particularly in fast-moving AI environments. The session will provide practical insights on how to address these challenges and successfully integrate responsible AI practices at scale.
 
