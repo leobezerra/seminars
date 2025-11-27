@@ -40,6 +40,24 @@ title: "Unhyped AI"
 
 <a name="spring2026"/>
 
+## AI & Media
+
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-3%20March-green.svg?style=for-the-badge"/>
+
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQFJBVgsjJ8UoQ/profile-displayphoto-crop_800_800/B4DZmltPNeJQAI-/0/1759421724575?e=1766016000&v=beta&t=UwHA2FQrKN10qDMpHM9LRIPU-oYXw-u3hXEgOoxiZlI">
+   </div>
+   <div class="float-child card">
+      <h3>Upcoming</h3>
+      <br/>
+      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <br/>
+      <i><a href="https://www.linkedin.com/in/anna-rezk/">Anna Rezk-Parker</a> @ University of Glasgow</i>
+   </div>   
+</div>
+
+
 ## AI & Ethics
 
 <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-19%20February-green.svg?style=for-the-badge"/>
