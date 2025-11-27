@@ -125,6 +125,19 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-autumn-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-29%20November-green.svg?style=for-the-badge"/>
 
+<div>
+   <div class="float-child">
+      <img src="https://media.licdn.com/dms/image/v2/C5603AQG_KZCSdppTLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516494869327?e=1764806400&v=beta&t=pZWv79T0frfPxaew29AfkXDFAJKFjufwUei19KTYXv4">
+   </div>
+   <div class="float-child">
+      <h3>Mathematical models for dominance move: comparison and complexity analysis</h3>
+      <br/>
+      <blockquote>"dominance move is very intuitive but hard to calculate due to its combinatorial nature"</blockquote>
+      <br/>
+      <i><a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/">Elizabeth Wanner</a> @ Aston University</i>
+   </div>   
+</div>
+<!--
 <table>
    <tr>
       <td width=350 class="picture">
@@ -139,6 +152,7 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
       </td>
    </tr>
 </table>
+-->
 
 Dominance move (DoM), a binary quality indicator, can be used in multi-objective and many-objective optimisation to compare two solution sets. DoM is very intuitive but hard to calculate due to its combinatorial nature. Different mathematical models are presented and analysed. A computationally fast approximate approach is also discussed. Computational results are promising and an upper bound analysis for the approximation ratio would be useful.  
 
