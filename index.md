@@ -64,6 +64,20 @@ title: "Unhyped AI"
 
 <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-autumn-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-29%20August-green.svg?style=for-the-badge"/>
 
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGlJNRUjYqGqg/profile-displayphoto-crop_800_800/B4DZiecpPJGkAM-/0/1755004970160?e=1764806400&v=beta&t=Yqt2KDv07X2-R4US-gSHdWI7wYyjm-5cE2B57wVab8E">
+   </div>
+   <div class="float-child">
+      <h3>Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online</h3>
+      <br/>
+      <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote>
+      <br/>
+      <i><a href="https://www.linkedin.com/in/carolline-querino/">Carolline Querino</a> @  Itaipu ParqueTec & Cajú Consultoria Nordestina</i>
+   </div>   
+</div>
+
+<!-- 
 <table>
    <tr>
       <td width=350 class="picture">
@@ -77,7 +91,8 @@ title: "Unhyped AI"
          <i><a href="https://www.linkedin.com/in/carolline-querino/">Carolline Querino</a> @  Itaipu ParqueTec & Cajú Consultoria Nordestina</i>
       </td>
    </tr>
-</table>
+</table> 
+-->
 
 In this seminar, I will present the first findings from my ongoing research on how generative AI, including chatbots, deepfakes and virtual assistants, can reproduce and amplify gender-based violence on social media. We will examine how tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion. After sharing the initial data, I will open the floor for a collective conversation on how we can imagine and design AI tools that do not reproduce gender-based violence or other forms of oppression, and instead contribute to building fairer, safer and more inclusive digital spaces.
 
