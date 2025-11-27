@@ -126,7 +126,7 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-autumn-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-29%20November-green.svg?style=for-the-badge"/>
 
 <div>
-   <div class="float-child">
+   <div class="float-child" id="one">
       <img src="https://media.licdn.com/dms/image/v2/C5603AQG_KZCSdppTLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516494869327?e=1764806400&v=beta&t=pZWv79T0frfPxaew29AfkXDFAJKFjufwUei19KTYXv4">
    </div>
    <div class="float-child">
