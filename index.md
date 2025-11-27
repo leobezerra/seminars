@@ -28,13 +28,10 @@ title: "Unhyped AI"
      - [AI & Media](#media)
      - [AI & Ethics](#ethics)
 2. [2025](#2025)
-   - [Autumn](#autumn2025)
-     - [AI & Gender](#gender)
-   - [Spring](#spring2025)
-     - [AI & Governance](#governance)
+   - [Autumn: AI & Gender](#autumn2025)
+   - [Spring: AI & Governance](#spring2025)
 3. [2024](#2024)
-   - [Autumn](#autumn2024)
-     - [AI & Metrics](#metrics) 
+   - [Autumn: AI & Metrics](#autumn2024)
   
 --- 
 
