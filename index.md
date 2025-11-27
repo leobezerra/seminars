@@ -25,20 +25,22 @@ title: "Unhyped AI"
 
 1. [2026](#2026)
    - [Spring](#spring2026)
-     - AI & Media
-     - AI & Ethics
+     - [AI & Media](#media)
+     - [AI & Ethics](#ethics)
 2. [2025](#2025)
    - [Autumn](#autumn2025)
-     - AI & Gender
+     - [AI & Gender](#gender)
    - [Spring](#spring2025)
-     - AI & Governance
+     - [AI & Governance](#governance)
 3. [2024](#2024)
    - [Autumn](#autumn2024)
-     - AI & Metrics 
+     - [AI & Metrics](#metrics) 
   
 --- 
 
 <a name="spring2026"/>
+
+<a name="media"/>
 
 ## AI & Media
 
@@ -57,12 +59,30 @@ title: "Unhyped AI"
    </div>   
 </div>
 
+[Back to the top](#top)
+
+---
+
+<a name="ethics"/>
 
 ## AI & Ethics
 
 <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-19%20February-green.svg?style=for-the-badge"/>
 
-<table>
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQH1KjlfFf4Qtg/profile-displayphoto-shrink_800_800/B4EZRLjTVTGgAc-/0/1736434333562?e=1764806400&v=beta&t=arFSqnhb8b9knKp4EPR46cSFj0ZzBjyGRggfSc5JvZE">
+   </div>
+   <div class="float-child card">
+      <h3>Upcoming</h3>
+      <br/>
+      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <br/>
+      <i><a href="https://www.linkedin.com/in/ronchrisley/">Ron Chrisley</a> @ University of Sussex</i>
+   </div>   
+</div>
+
+<!-- <table>
    <tr>
       <td width=350 class="picture">
          <img src="https://media.licdn.com/dms/image/v2/D4E03AQH1KjlfFf4Qtg/profile-displayphoto-shrink_800_800/B4EZRLjTVTGgAc-/0/1736434333562?e=1764806400&v=beta&t=arFSqnhb8b9knKp4EPR46cSFj0ZzBjyGRggfSc5JvZE">
@@ -70,18 +90,20 @@ title: "Unhyped AI"
       <td width=320>
          <h3>Upcoming</h3>
          <br/>
-         <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+         <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote>
          <br/>
          <i><a href="https://www.linkedin.com/in/ronchrisley/">Ron Chrisley</a> @ University of Sussex</i>
       </td>
    </tr>
-</table>
+</table> -->
 
 [Back to the top](#top)
 
 --- 
 
 <a name="autumn2025"/>
+
+<a name="gender"/>
 
 ## AI & Gender
 
@@ -126,6 +148,8 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
 --- 
 
 <a name="spring2025"/>
+
+<a name="governance"/>
 
 ## AI & Governance
 
@@ -172,6 +196,8 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
 --- 
 
 <a name="autumn2024"/>
+
+<a name="metrics"/>
 
 ## AI & Metrics
 
