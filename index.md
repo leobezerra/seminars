@@ -24,12 +24,17 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
-   - [Spring](#spring2026): AI & Ethics
+   - [Spring](#spring2026)
+     - AI & Media
+     - AI & Ethics
 2. [2025](#2025)
-   - [Autumn](#autumn2025): AI & Gender
-   - [Spring](#spring2025): AI & Governance
+   - [Autumn](#autumn2025)
+     - AI & Gender
+   - [Spring](#spring2025)
+     - AI & Governance
 3. [2024](#2024)
-   - [Autumn](#autumn2024): AI & Metrics 
+   - [Autumn](#autumn2024)
+     - AI & Metrics 
   
 --- 
 
