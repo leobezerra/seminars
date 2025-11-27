@@ -68,7 +68,7 @@ title: "Unhyped AI"
    <div class="float-child picture" id="one">
       <img src="https://media.licdn.com/dms/image/v2/D4D03AQGlJNRUjYqGqg/profile-displayphoto-crop_800_800/B4DZiecpPJGkAM-/0/1755004970160?e=1764806400&v=beta&t=Yqt2KDv07X2-R4US-gSHdWI7wYyjm-5cE2B57wVab8E">
    </div>
-   <div class="float-child">
+   <div class="float-child card">
       <h3>Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online</h3>
       <br/>
       <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote>
