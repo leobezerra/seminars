@@ -3,10 +3,6 @@ title: "Unhyped AI"
 ---
 
 <a name="top"/>
-
-<!-- 
-# Sociotechnical & Responsible AI Seminar Series
--->
 **Acknowledgements**
 - This seminar series is partially supported by the [PHAWM](https://phawm.org) research project, funded by [Responsible AI UK](https://rai.ac.uk).
 - This seminar series is hosted in partnership with the StirAI multidisciplinary research lab at the [University of Stirling](https://www.stir.ac.uk).
