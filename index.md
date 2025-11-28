@@ -24,7 +24,7 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
-   - [April](#government): AI & Government
+<!--   - [April](#government): AI & Government-->
    - [March](#media): AI & Media
    - [February](#ethics): AI & Ethics
 3. [2025](#2025)
@@ -37,7 +37,7 @@ title: "Unhyped AI"
 
 <a name="spring2026"/>
 
-<a name="government"/>
+<!-- <a name="government"/>
 
 ## AI & Government
 
@@ -50,7 +50,7 @@ title: "Unhyped AI"
    <div class="float-child card">
       <h3>Upcoming</h3>
       <br/>
-      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> 
       <br/>
       <i><a href="https://www.linkedin.com/in/albertofranzin/">Alberto Franzin</a> @ EU AI Officee</i>
    </div>   
@@ -59,7 +59,7 @@ title: "Unhyped AI"
 [Back to the top](#top)
 
 ---
-
+-->
 <a name="media"/>
 
 ## AI & Media
