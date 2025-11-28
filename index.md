@@ -24,17 +24,41 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
+   - [April](#government): AI & Government
    - [March](#media): AI & Media
    - [February](#ethics): AI & Ethics
-2. [2025](#2025)
+3. [2025](#2025)
    - [Autumn](#autumn2025): AI & Gender
    - [Spring](#spring2025): AI & Governance
-3. [2024](#2024)
+4. [2024](#2024)
    - [Autumn](#autumn2024): AI & Metrics
   
 --- 
 
 <a name="spring2026"/>
+
+<a name="government"/>
+
+## AI & Government
+
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-30%20March-green.svg?style=for-the-badge"/>
+
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQHu0ORsvWSrqg/profile-displayphoto-shrink_800_800/B4DZYbl3aNHIAc-/0/1744219633988?e=1766016000&v=beta&t=SSfmcLv_DZVLz4YayDIoIyR0PGwtrmE69ZRQtziGNoU">
+   </div>
+   <div class="float-child card">
+      <h3>Upcoming</h3>
+      <br/>
+      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <br/>
+      <i><a href="https://www.linkedin.com/in/albertofranzin/">Alberto Franzin</a> @ EU AI Officee</i>
+   </div>   
+</div>
+
+[Back to the top](#top)
+
+---
 
 <a name="media"/>
 
