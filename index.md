@@ -135,7 +135,7 @@ title: "Unhyped AI"
       <br/>
       <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
       <br/>
-      <i><a href="https://www.linkedin.com/in/michaelahruskova/">Michaela Hruskova</a>, <a href="https://www.linkedin.com/in/vassilis-galanos-4a39a955/">Vassilis Galanos<a>, <a href="https://www.stir.ac.uk/people/2013555">Simon Powers</a> & <a href="https://www.stir.ac.uk/people/1784983">Conor McKeown</a> @ University of Sussex</i>
+      <i><a href="https://www.linkedin.com/in/michaelahruskova/">Michaela Hruskova</a>, <a href="https://www.linkedin.com/in/vassilis-galanos-4a39a955/">Vassilis Galanos</a>, <a href="https://www.stir.ac.uk/people/2013555">Simon Powers</a> & <a href="https://www.stir.ac.uk/people/1784983">Conor McKeown</a> @ University of Sussex</i>
    </div>   
 </div>
 
