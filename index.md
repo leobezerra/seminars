@@ -26,7 +26,8 @@ title: "Unhyped AI"
 1. [2026](#2026)
 <!--   - [April](#government): AI & Government-->
    - [March](#media): AI & Media
-   - [February](#ethics): AI & Ethics
+   - [February](#language): AI & Language
+   - [January](#coding): AI & Coding
 3. [2025](#2025)
    - [Autumn](#autumn2025): AI & Gender
    - [Spring](#spring2025): AI & Governance
@@ -68,7 +69,7 @@ title: "Unhyped AI"
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQFJBVgsjJ8UoQ/profile-displayphoto-crop_800_800/B4DZmltPNeJQAI-/0/1759421724575?e=1766016000&v=beta&t=UwHA2FQrKN10qDMpHM9LRIPU-oYXw-u3hXEgOoxiZlI">
+      <img src="img/media.jpeg">
    </div>
    <div class="float-child card">
       <h3>Upcoming</h3>
@@ -83,15 +84,15 @@ title: "Unhyped AI"
 
 ---
 
-<a name="ethics"/>
+<a name="language"/>
 
-## AI & Ethics
+## AI & Language
 
 <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-19%20February-green.svg?style=for-the-badge"/>
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQH1KjlfFf4Qtg/profile-displayphoto-shrink_800_800/B4EZRLjTVTGgAc-/0/1736434333562?e=1764806400&v=beta&t=arFSqnhb8b9knKp4EPR46cSFj0ZzBjyGRggfSc5JvZE">
+      <img src="img/language.jpeg">
    </div>
    <div class="float-child card">
       <h3>Upcoming</h3>
@@ -131,7 +132,7 @@ title: "Unhyped AI"
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGlJNRUjYqGqg/profile-displayphoto-crop_800_800/B4DZiecpPJGkAM-/0/1755004970160?e=1764806400&v=beta&t=Yqt2KDv07X2-R4US-gSHdWI7wYyjm-5cE2B57wVab8E">
+      <img src="img/gender.jpeg">
    </div>
    <div class="float-child card">
       <h3>Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online</h3>
@@ -180,7 +181,7 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
-      <img src="https://media.licdn.com/dms/image/v2/C4E03AQFRSf_44FpNkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560880655205?e=1764806400&v=beta&t=BuhdElf64hPhSC_47fT8nY071hYftSEeWGUlh_brSoA">      
+      <img src="img/governance.jpeg">      
    </div>
    <div class="float-child card">
       <h3>The challenges of digital ethics & responsible AI</h3>
@@ -225,7 +226,7 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
-      <img src="https://media.licdn.com/dms/image/v2/C5603AQG_KZCSdppTLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516494869327?e=1764806400&v=beta&t=pZWv79T0frfPxaew29AfkXDFAJKFjufwUei19KTYXv4">
+      <img src="img/metrics.jpeg">
    </div>
    <div class="float-child card">
       <h3>Mathematical models for dominance move: comparison and complexity analysis</h3>
