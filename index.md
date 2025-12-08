@@ -131,13 +131,17 @@ title: "Unhyped AI"
       <img src="img/coding.jpeg">
    </div>
    <div class="float-child card">
-      <h3>Upcoming</h3>
+      <h3>Vibe Coding in Higher Education: Experiences, Scenarios, and Sociotechnical Considerations</h3>
       <br/>
-      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <blockquote>"if you have an idea and want to get feedback on the concept and general idea, then I think vibe coding can fast track the process significantly"</blockquote>
       <br/>
       <i><a href="https://www.linkedin.com/in/michaelahruskova/">Michaela Hruskova</a>, <a href="https://www.linkedin.com/in/vassilis-galanos-4a39a955/">Vassilis Galanos</a>, <a href="https://www.stir.ac.uk/people/2013555">Simon Powers</a> & <a href="https://www.stir.ac.uk/people/1784983">Conor McKeown</a> @ University of Stirling</i>
    </div>   
 </div>
+
+Code generation is one of the major applications of Large Language Models (LLMs), the most recent AI breakthrough that has drawn significant attention from society. Automating coding has long been an aim of computer science, and now software companies and communities have coined the term "vibe coding" to promote LLM-based code generation. However, LLMs raise a number of concerns regarding its training, the aggressive behavior of their provider companies, and the sociotechnical effects they produce. In this meet-up, we will discuss vibe coding scenarios and experiences in higher education and whether it could be a means for democratising access to coding. Importantly, we will also discuss the sociotechnical risks that should be considered in these scenarios, as well as eventual mitigation procedures that could be employed to address potential harms.   
+
+_Michaela Hruskova, Vassilis Galanos, Simon Powers, and Conor McKeown are Lecturers at the University of Stirling. Along with multiple other academics at Stirling, they comprise the StirAI multidisciplinary research lab (formerly JustAI Lab)._
 
 [Back to the top](#top)
 
