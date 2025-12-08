@@ -118,6 +118,27 @@ title: "Unhyped AI"
    </tr>
 </table> -->
 
+---
+
+<a name="coding"/>
+
+## AI & Coding
+
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-7%20January-green.svg?style=for-the-badge"/>
+
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="img/coding.jpeg">
+   </div>
+   <div class="float-child card">
+      <h3>Upcoming</h3>
+      <br/>
+      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <br/>
+      <i><a href="https://www.linkedin.com/in/ronchrisley/">Michaela Hruskova, Conor McKeown, Vassilis Galanos & Simon Powers Chrisley</a> @ University of Sussex</i>
+   </div>   
+</div>
+
 [Back to the top](#top)
 
 --- 
