@@ -124,7 +124,7 @@ title: "Unhyped AI"
 
 ## AI & Coding
 
-<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-7%20January-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-20%20January-green.svg?style=for-the-badge"/>
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
