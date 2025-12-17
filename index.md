@@ -24,7 +24,7 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
-<!--   - [April](#government): AI & Government-->
+   - [April](#government): AI & Government
    - [March](#media): AI & Media
    - [February](#language): AI & Language
    - [January](#coding): AI & Coding
@@ -38,7 +38,7 @@ title: "Unhyped AI"
 
 <a name="spring2026"/>
 
-<!-- <a name="government"/>
+<a name="government"/>
 
 ## AI & Government
 
@@ -49,20 +49,22 @@ title: "Unhyped AI"
       <img src="https://media.licdn.com/dms/image/v2/D4D03AQHu0ORsvWSrqg/profile-displayphoto-shrink_800_800/B4DZYbl3aNHIAc-/0/1744219633988?e=1766016000&v=beta&t=SSfmcLv_DZVLz4YayDIoIyR0PGwtrmE69ZRQtziGNoU">
    </div>
    <div class="float-child card">
-      <h3>Upcoming</h3>
+      <h3>Innovation & Regulation: the European Union approach to trustworthy AI</h3>
       <br/>
-      <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> 
+      <blockquote>"the EU approved its AI Act to foster AI innovation while safeguarding fundamental citizen rights"</blockquote> 
       <br/>
       <i><a href="https://www.linkedin.com/in/albertofranzin/">Alberto Franzin</a> @ EU AI Officee</i>
    </div>   
 </div>
+
+Technology is an industry that has historically been unaddressed by regulation, in part due to its recency and speed. Big Tech companies have framed this lack of regulation as a decisive enabler of innovation, and have actively defended that the sector remain unregulated. However, some of the major breakthroughs in the field have stirred extensive legal battles, e.g. Apple v. Microsoft and Apple v. Samsung, evidencing the need of regulation to protect innovation and intellectual property. More recently, the speed and magnitude with which breakthroughs have impacted society have prompted governments to propose technology regulations such as the General Data Protection Regulation (GDPR) and the Digital Safety Act (DSA), both proposed by the European Union (EU) and replicated by other major countries such as the United States and the United Kingdom. In 2024, the EU approved its AI Act to foster AI innovation while safeguarding fundamental citizen rights. In this meet-up, we will discuss the major aspects of the AI Act and the role played by the AI Office, the EU institution responsible for implementing the AI Act. In particular, we will discuss the potential impact of systemic risks from general-purpose AI (GPAI) models, like ChatGPT and Gemini, and how the Act attempts to mitigate them.
 
 _Alberto Franzin is a technology specialist in the AI Safety unit of the European AI Office. He holds a Master's degree in Computer Engineering from the University of Padova in Italy and a Ph.D. from the Université libre de Bruxelles (ULB) in Belgium, where he also worked as a postdoctoral researcher. He has worked on various topics in artificial intelligence, optimization, and machine learning, through academic projects and industry collaborations._
 
 [Back to the top](#top)
 
 ---
--->
+
 <a name="media"/>
 
 ## AI & Media
