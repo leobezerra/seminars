@@ -57,6 +57,8 @@ title: "Unhyped AI"
    </div>   
 </div>
 
+_Alberto Franzin is a technology specialist in the AI Safety unit of the European AI Office. He holds a Master's degree in Computer Engineering from the University of Padova in Italy and a Ph.D. from the Université libre de Bruxelles (ULB) in Belgium, where he also worked as a postdoctoral researcher. He has worked on various topics in artificial intelligence, optimization, and machine learning, through academic projects and industry collaborations._
+
 [Back to the top](#top)
 
 ---
