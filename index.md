@@ -153,6 +153,8 @@ _Anna Rezk-Parker is a Postdoctoral Research Associate in Computer Science at th
    </tr>
 </table> -->
 
+[Back to the top](#top)
+
 ---
 
 <a name="coding"/>
