@@ -24,7 +24,7 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
-<!--   - [May](#relationships): AI & Relationships -->
+   - [May](#relationships): AI & Relationships
    - [April](#government): AI & Government
    - [March](#media): AI & Media
    - [February](#language): AI & Language
@@ -37,7 +37,6 @@ title: "Unhyped AI"
   
 --- 
 
-<!--
 <a name="relationships"/>
 
 ## AI & Relationships
@@ -64,7 +63,7 @@ _Dr Raffaele Ciriello, a senior lecturer at the University of Sydney who researc
 [Back to the top](#top)
 
 ---
--->
+
 <a name="government"/>
 
 ## AI & Government
