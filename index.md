@@ -74,13 +74,17 @@ _Alberto Franzin is a technology specialist in the AI Safety unit of the Europea
       <img src="img/media.jpeg">
    </div>
    <div class="float-child card">
-      <h3>Upcoming</h3>
+      <h3>Beyond the Click: AI Search and the Disintermediation of News</h3>
       <br/>
-      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <blockquote>"news organisations face growing disintermediation, reduced visibility, and weakening relationships with audiences"</blockquote>
       <br/>
       <i><a href="https://www.linkedin.com/in/anna-rezk/">Anna Rezk-Parker</a> @ University of Glasgow</i>
    </div>   
 </div>
+
+As search engines and platforms increasingly deliver AI-generated answers rather than links, news organisations face growing disintermediation, reduced visibility, and weakening relationships with audiences. This seminar critically examines how developments in search and generative AI summaries are reshaping access to news and redistributing power within the media ecosystem. While these dynamics pose particular challenges for journalism, the talk also explores how public service media such as the BBC are using AI across news and wider media production to play to organisational strengths, mitigate third-party platform dependencies, and uphold public service values in an AI-mediated environment.
+
+_Anna Rezk-Parker is a Postdoctoral Research Associate in Computer Science at the University of Glasgow, working on participatory audits of search and information retrieval systems as part of the Responsible AI UK–funded PHAWM project. Her research focuses on AI in media and journalism, search and recommender systems, personalisation, and designing for user agency in automated systems. She completed her PhD in Design Informatics at the University of Edinburgh in collaboration with BBC R&D._
 
 [Back to the top](#top)
 
