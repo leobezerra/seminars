@@ -53,7 +53,7 @@ title: "Unhyped AI"
       <br/>
       <blockquote>"the EU approved its AI Act to foster AI innovation while safeguarding fundamental citizen rights"</blockquote> 
       <br/>
-      <i><a href="https://www.linkedin.com/in/albertofranzin/">Alberto Franzin</a> @ EU AI Officee</i>
+      <i><a href="https://www.linkedin.com/in/albertofranzin/">Alberto Franzin</a> @ EU AI Office</i>
    </div>   
 </div>
 
