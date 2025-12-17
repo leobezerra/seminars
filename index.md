@@ -24,6 +24,7 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
+<!--   - [May](#relationships): AI & Relationships -->
    - [April](#government): AI & Government
    - [March](#media): AI & Media
    - [February](#language): AI & Language
@@ -36,8 +37,34 @@ title: "Unhyped AI"
   
 --- 
 
-<a name="spring2026"/>
+<!--
+<a name="relationships"/>
 
+## AI & Relationships
+
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-summer-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-4%20May-green.svg?style=for-the-badge"/>
+
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="img/relationships.jpeg">
+   </div>
+   <div class="float-child card">
+      <h3>Brave new world of AI companion apps</h3>
+      <br/>
+      <blockquote>"will AI companions actually reduce loneliness, or will they only heighten it?"</blockquote> 
+      <br/>
+      <i><a href="https://www.linkedin.com/in/raffaele-ciriello/">Raffaele Ciriello</a> @ University of Sydney</i>
+   </div>   
+</div>
+
+At a time of growing isolation, loneliness, and vulnerability commercial AI companions provide digital characters that are marketed to act as our friends, trusted confidantes, and even romantic partners. But what do these apps, which have been downloaded by tens of millions of people, mean for human society and our relationships with one another? What ethical concerns are raised when companies have a financial incentive to keep users continually on their apps? And will AI companions actually reduce loneliness, or will they only heighten it? 
+
+_Dr Raffaele Ciriello, a senior lecturer at the University of Sydney who researches and writes extensively about AI companion apps, is at the forefront to understand this new technological and ethical frontier. Join us to explore the rise of AI companions, the effect they have on their users, and the implications they have for the future of human relationships._
+
+[Back to the top](#top)
+
+---
+-->
 <a name="government"/>
 
 ## AI & Government
@@ -46,7 +73,7 @@ title: "Unhyped AI"
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQHu0ORsvWSrqg/profile-displayphoto-shrink_800_800/B4DZYbl3aNHIAc-/0/1744219633988?e=1766016000&v=beta&t=SSfmcLv_DZVLz4YayDIoIyR0PGwtrmE69ZRQtziGNoU">
+      <img src="img/government.jpeg">
    </div>
    <div class="float-child card">
       <h3>Innovation & Regulation: the European Union approach to trustworthy AI</h3>
