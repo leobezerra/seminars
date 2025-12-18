@@ -24,7 +24,7 @@ title: "Unhyped AI"
 <a name="top"/>
 
 1. [2026](#2026)
-   - [May](#relationships): AI & Relationships
+   - [May](#relationships): AI Companions & Relationships
    - [April](#government): AI & Government
    - [March](#media): AI & Media
    - [February](#language): AI & Language
@@ -39,7 +39,7 @@ title: "Unhyped AI"
 
 <a name="relationships"/>
 
-## AI & Relationships
+## AI Companions & Relationships
 
 <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-summer-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-4%20May-green.svg?style=for-the-badge"/>
 
