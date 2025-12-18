@@ -129,28 +129,18 @@ _Anna Rezk-Parker is a Postdoctoral Research Associate in Computer Science at th
       <img src="img/language.jpeg">
    </div>
    <div class="float-child card">
-      <h3>Upcoming</h3>
+      <h3>Apropos of Nothing? Singular Reference and Semantic Grounding in LLMs</h3>
       <br/>
-      <!-- <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote> -->
+      <blockquote>"Instead of asking whether an LLM knows what it is talking about, I suggest we first ask whether it is talking about anything at all."</blockquote>
       <br/>
       <i><a href="https://www.linkedin.com/in/ronchrisley/">Ron Chrisley</a> @ University of Sussex</i>
    </div>   
 </div>
 
-<!-- <table>
-   <tr>
-      <td width=350 class="picture">
-         <img src="https://media.licdn.com/dms/image/v2/D4E03AQH1KjlfFf4Qtg/profile-displayphoto-shrink_800_800/B4EZRLjTVTGgAc-/0/1736434333562?e=1764806400&v=beta&t=arFSqnhb8b9knKp4EPR46cSFj0ZzBjyGRggfSc5JvZE">
-      </td>
-      <td width=320>
-         <h3>Upcoming</h3>
-         <br/>
-         <blockquote>"tools often created with positive or neutral intentions can still reinforce stereotypes, deepen inequalities and create new forms of harassment and exclusion"</blockquote>
-         <br/>
-         <i><a href="https://www.linkedin.com/in/ronchrisley/">Ron Chrisley</a> @ University of Sussex</i>
-      </td>
-   </tr>
-</table> -->
+Large language models (LLMs) can already be made more linguistically responsible—not by turning them into artificial agents or subjects, but by aligning the informational relations that generate their outputs with the semantic ambitions of the text itself. In this talk, I argue that this route to progress has been obscured by the tendency to frame debates about LLMs in terms of whether they possess human-like understanding. Instead of asking whether an LLM knows what it is talking about, I suggest we first ask whether it is talking about anything at all. Drawing on work in the philosophy of language—especially Gareth Evans’ account of reference—I focus on language that purports to refer to particulars (specific objects or events), and ask what causal and informational relations must obtain for such reference to succeed. I argue that current LLM architectures generally fail to meet these conditions, even while generating text that presupposes them, resulting in systematic semantic anomalies. We can response to this either by constraining our uses of LLMs to match their actual semantic capacities, or we can enhance LLM-based systems so that the informational processes producing their outputs support singular reference. I illustrate the second approach by looking at three cases with genuine promise: retrieval-augmented generation (RAG), multi-model (sic) imagistic reasoning, and multi-step chain-of-thought reasoning.
+
+_Ron Chrisley is Professor of Cognitive Science and Artificial Intelligence at the University of Sussex, where he is also Director of the Centre for Cognitive Science (COGS).
+He has been researching at the intersection of AI, cognitive science and philosophy since the 1980s. After getting his BS in Symbolic Systems from Stanford in 1987 he investigated expert systems and machine learning at NASA, Xerox PARC, the Helsinki University of Technology (as a Fulbright scholar), ATR Labs in Japan, and the University of Birmingham (as a Leverhulme fellow). In 1992 he took up a lectureship in the School of Cognitive and Computing Sciences at the University of Sussex, and received a DPhil in Philosophy from the University of Oxford in 1997.  In 2021 he co-founded the generative voice AI startup Tenyx, which was acquired by Salesforce in September of 2024._
 
 [Back to the top](#top)
 
