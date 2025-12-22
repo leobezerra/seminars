@@ -23,7 +23,7 @@ title: "Unhyped AI"
 
 <a name="top"/>
 
-1. [2026](#2026)
+1. [Spring 2026](#spring2026)
    - [May](#relationships): AI Companions & Relationships
    - [April](#government): AI & Government
    - [March](#media): AI & Media
@@ -36,6 +36,8 @@ title: "Unhyped AI"
    - [Autumn](#autumn2024): AI & Metrics
   
 --- 
+
+<a name="spring2026"/>
 
 <a name="relationships"/>
 
