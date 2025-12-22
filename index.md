@@ -29,11 +29,10 @@ title: "Unhyped AI"
    - [March](#media): AI & Media
    - [February](#language): AI & Language
    - [January](#coding): AI & Coding
-3. [2025](#2025)
-   - [Autumn](#autumn2025): AI & Gender
-   - [Spring](#spring2025): AI & Governance
-4. [2024](#2024)
-   - [Autumn](#autumn2024): AI & Metrics
+2. [Past editions](#past)
+   - [Autumn 2025](#autumn2025): AI & Gender
+   - [Spring 2025](#spring2025): AI & Governance
+   - [Autumn 2024](#autumn2024): AI & Metrics
   
 --- 
 
@@ -174,6 +173,8 @@ _Michaela Hruskova, Vassilis Galanos, Simon Powers, and Conor McKeown are Lectur
 [Back to the top](#top)
 
 --- 
+
+<a name="past"/>
 
 <a name="autumn2025"/>
 
