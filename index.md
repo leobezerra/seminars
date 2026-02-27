@@ -42,7 +42,7 @@ title: "Unhyped AI"
 
 ## AI Companions & Relationships
 
-<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-summer-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-4%20May-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-summer-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-5%20May-green.svg?style=for-the-badge"/>
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
