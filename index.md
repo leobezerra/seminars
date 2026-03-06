@@ -4,7 +4,7 @@ title: "Unhyped AI"
 
 <a name="top"/>
 
-- This seminar series is partially supported by the [PHAWM](https://phawm.org) research project, funded by [Responsible AI UK](https://rai.ac.uk).
+- This seminar series is organised by [Leonardo Bezerra](https://leobezerra.github.io/academia) through the [PHAWM](https://phawm.org) research project, funded by [Responsible AI UK](https://rai.ac.uk).
 - This seminar series is hosted in partnership with the StirAI multidisciplinary research lab at the [University of Stirling](https://www.stir.ac.uk).
 - Some of these seminars are also part of the [Computing Science and Mathematics](https://www.stir.ac.uk/about/faculties/natural-sciences/computing-science-mathematics/) seminar series of the [University of Stirling](https://www.stir.ac.uk).
 
