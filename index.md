@@ -97,7 +97,7 @@ _Alberto Franzin is a technology specialist in the AI Safety unit of the Europea
       <br/>
       <blockquote>"it is increasingly urgent to ensure that [LLMs] are developed and operate responsibly"</blockquote> 
       <br/>
-      <i><a href="https://www.linkedin.com/in/christos-christodoulopoulos-376b9831/">Christos Christodoulopoulos</a> @ Information Commissioner’s Office</i>
+      <i><a href="https://www.linkedin.com/in/christos-christodoulopoulos-376b9831/">Christos Christodoulopoulos</a> @ UK ICO</i>
    </div>   
 </div>
 
