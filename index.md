@@ -69,7 +69,7 @@ _Dr Raffaele Ciriello, a senior lecturer at the University of Sydney who researc
 
 ## AI & Government
 
-<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-30%20March-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/term-spring-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/date-31%20March-green.svg?style=for-the-badge"/>
 
 <div class="float-parent">
    <div class="float-child picture" id="one">
@@ -87,6 +87,23 @@ _Dr Raffaele Ciriello, a senior lecturer at the University of Sydney who researc
 Information Technology is an industry that has historically been unaddressed by regulation, in part due to its recency and speed. This lack of regulation has often been framed as a decisive enabler of innovation, and many important industry stakeholders have actively defended a soft approach to regulation. However, some of the major breakthroughs in the field have stirred extensive legal battles, e.g. Apple v. Microsoft and Apple v. Samsung, evidencing the need of regulation to protect innovation and intellectual property. More recently, the speed and magnitude with which breakthroughs have impacted society have prompted governments to propose technology regulations such as the General Data Protection Regulation (GDPR), the Digital Services Act (DSA) and the Digital Markets Act (DMA), proposed by the European Union (EU) and replicated by other major countries. In 2024, the EU approved its AI Act to foster AI innovation while safeguarding fundamental citizen rights. In this meet-up, we will discuss the major aspects of the AI Act and the role played by the AI Office, the EU institution responsible for implementing the AI Act. In particular, we will discuss the potential impact of systemic risks from general-purpose AI (GPAI) models, like GPT and Gemini, and how the AI Act attempts to mitigate them.
 
 _Alberto Franzin is a technology specialist in the AI Safety unit of the European AI Office. He holds a Master's degree in Computer Engineering from the University of Padova in Italy and a Ph.D. from the Université libre de Bruxelles (ULB) in Belgium, where he also worked as a postdoctoral researcher. He has worked on various topics in artificial intelligence, optimization, and machine learning, through academic projects and industry collaborations._
+
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="img/government2.jpeg">
+   </div>
+   <div class="float-child card">
+      <h3>With great power... My journey in Responsible AI</h3>
+      <br/>
+      <blockquote>"it is increasingly urgent to ensure that [LLMs] are developed and operate responsibly"</blockquote> 
+      <br/>
+      <i><a href="https://www.linkedin.com/in/christos-christodoulopoulos-376b9831/">Christos Christodoulopoulos</a> @ Information Commissioner’s Office</i>
+   </div>   
+</div>
+
+As LLMs become part of products used daily by millions of people, it is increasingly urgent to ensure that these models are developed and operate responsibly. In this talk, I will share my journey in Responsible AI (RAI), from my early work in automated fact verification to the development of the Amazon Nova family of foundational models and my new role in the Information Commissioner’s Office (ICO), the UK’s data protection regulator. I will share some examples of RAI research that I and my former team have done, including the largest RAI benchmark for video foundation models, and a linguistically-inspired text-to-text LLM watermarking method. I will also talk about the role regulatory agencies like the ICO play in the extremely fast-paced world of post-ChatGPT AI. Finally, I am going to discuss how RAI is practiced in an industry setting and how it is influenced by and sometimes informs AI regulations.
+
+_Dr Christos Christodoulopoulos is a Principal Technology Adviser for the Information Commissioner’s Office, the UK’s data protection regulator, working with the AI Policy and AI Compliance teams. Before that, he was a Senior Applied Scientist at Amazon, working on Responsible AI for Alexa and the Amazon Nova family of Foundational Models. He has a PhD in Computational Linguistics from the University of Edinburgh, and he was a postdoctoral researcher at the University of Illinois. He was a Program Chair for EMNLP 2025, a Senior Area Chair for various *CL conferences and was the General Chair for the 2021 Truth and Trust Online conference._
 
 [Back to the top](#top)
 
